@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
 
 <!-- Profile README for github.com/meylis1998 -->
