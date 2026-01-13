@@ -141,7 +141,7 @@ class FlutterEngineer {
 <a href="https://twitter.com/m_annagurbanov" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:meylis.annagurbanow98@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/meylis1998" target="_blank">
