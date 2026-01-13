@@ -1,7 +1,7 @@
+# Hi, I'm Meylis Annagurbanov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 <div align="center">
 
-<!-- Profile README for github.com/meylis1998 -->
-<!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Meylis%20Annagurbanov&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20Engineer%20%7C%20Mobile%20App%20Architect&descSize=20&descAlignY=55"/>
 
 <!-- Animated Typing -->
