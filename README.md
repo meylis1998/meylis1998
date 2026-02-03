@@ -44,9 +44,6 @@ Real-time chat application built with Flutter and modern messaging patterns.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meylis1998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.onrender.com/?user=meylis1998&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meylis1998&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
