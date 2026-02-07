@@ -47,6 +47,13 @@ Real-time chat application built with Flutter and modern messaging patterns.
 
 ---
 
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meylis1998/meylis1998/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meylis1998&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
