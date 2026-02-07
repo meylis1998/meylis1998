@@ -7,6 +7,7 @@ Building mobile apps with clean architecture and great UX.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/meylis-annagurbanov-9144371a8)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/m_annagurbanov)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/gitpushit)
+[![Discord](https://img.shields.io/badge/Discord-__flutterian__-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 
 ---
 
