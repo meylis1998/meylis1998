@@ -47,6 +47,11 @@ Real-time chat application built with Flutter and modern messaging patterns.
 
 ---
 
+<!-- 3D Contribution Calendar -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meylis1998/meylis1998/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+</p>
+
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/meylis1998/meylis1998/output/github-snake-dark.svg" alt="Snake animation" />
