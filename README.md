@@ -38,37 +38,6 @@ Real-time chat application built with Flutter and modern messaging patterns.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=meylis1998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=meylis1998&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meylis1998&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<!-- 3D Contribution Calendar -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meylis1998/meylis1998/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meylis1998/meylis1998/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🎯 Currently
 
 - 🔭 Building production Flutter apps with clean architecture
