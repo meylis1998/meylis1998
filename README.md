@@ -27,13 +27,13 @@ Building mobile apps with clean architecture and great UX.
 
 ## 📌 Featured Projects
 
-### [SoftEther VPN Client](https://github.com/meylis1998/softether_vpn_client)
+### [SoftEther VPN Client](https://github.com/realmeylisdev/softether_vpn_client)
 Flutter client app for SoftEther VPN connections with a clean, intuitive interface.
 
-### [Flutter Scalable Architecture](https://github.com/meylis1998/flutter_scalable_arch)
+### [Flutter Scalable Architecture](https://github.com/realmeylisdev/flutter_scalable_arch)
 A template demonstrating scalable Flutter architecture patterns for production apps.
 
-### [Convo Chat](https://github.com/meylis1998/convo_chat)
+### [Convo Chat](https://github.com/realmeylisdev/convo_chat)
 Real-time chat application built with Flutter and modern messaging patterns.
 
 ---
@@ -49,16 +49,16 @@ Real-time chat application built with Flutter and modern messaging patterns.
 
 <!-- 3D Contribution Calendar -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meylis1998/meylis1998/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img src="https://raw.githubusercontent.com/realmeylisdev/realmeylisdev/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </p>
 
 <!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meylis1998/meylis1998/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/realmeylisdev/realmeylisdev/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meylis1998&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=realmeylisdev&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
