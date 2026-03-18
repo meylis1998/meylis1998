@@ -16,7 +16,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: meylis1998
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
         run: |
